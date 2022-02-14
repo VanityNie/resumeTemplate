@@ -26,15 +26,16 @@
  ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
 
  - 男，1994 年出生
- - 求职意向：Java 研发工程师
+ - 求职意向：编译工程师/编译测试工程师/Architecture Modeling Expert等
  - 工作经验：0 年（校招可不填）
- - 期望薪资：0k（校招可不填）
+ - 期望薪资：0k（可不填）
+ - 工作地点：上海/北京/成都/南京/杭州
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
 - 硕士，XXXX大学，计算机科学与技术专业，2016.9~2019.7
 - 学士，XXXX大学，软件工程专业，2012.9~2016.7
-- 绩点：***，年级前 100%
+- 绩点：***，年级前 100%（社招可不填）
 - 通过了 CET4/6 英语等级考试
 
 ## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
@@ -53,10 +54,10 @@
 
 ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
-- ★★★ Java
+- ★★★ llvm
 - ★★☆ C++、Python
-- ★★★ MySQL
-- ★★★ Redis
-- ★★☆ Spring
-- ★☆☆ RabbitMQ、ZooKeeper
-- ★★☆ JavaScript
+- ★★★ gem5
+- ★★★ 编译原理
+- ★★☆ 体系结构
+- ★☆☆ 图像学
+- ★★☆ CUDA
