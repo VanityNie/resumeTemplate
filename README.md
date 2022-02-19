@@ -22,7 +22,6 @@
          </span>
      </div>
  </center>
-
  ## <img src="assets/info-circle-solid.svg" width="30px"> 基本信息
 
 *<u>如果申请的是实习岗，请在求职意向一栏中注明实习二字</u>*
@@ -73,3 +72,7 @@
 ★★★ llvm						★★☆ C++、Python						★★★ gem5						★★★ 编译原理
 
 ★★☆ 体系结构                ★☆☆ 图形学                                    ★★☆ CUDA                        ★★★ 俄语
+
+## <img src="assets/comment-solid.svg" width="30px"> 推荐理由
+
+*<u>由猎头或者您的好哥们填写</u>*
