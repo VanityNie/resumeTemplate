@@ -24,7 +24,7 @@
  </center>
 
 
- ## <img src="assets/info-circle-solid.svg" width="30px"> 基本信息
+## <img src="assets/info-circle-solid.svg" width="30px"> 基本信息
 
 *<u>如果申请的是实习岗，请在求职意向一栏中注明实习二字</u>*
 
